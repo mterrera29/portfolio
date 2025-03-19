@@ -8,11 +8,11 @@ import {
   MongoDB,
 } from 'developer-icons';
 
-import profile from '../assets/terre.jpg';
+import profile from '../assets/profile2.jpg';
 
 export default function Main() {
   return (
-    <div className=' container max-w-xl px-3 py-4 pb-4 space-y-2 '>
+    <div className=' container max-w-140 px-3 py-4 pb-4 space-y-2 '>
       <div>
         <div className='flex flex-row  items-center mb-2'>
           <div className='mr-3'>
