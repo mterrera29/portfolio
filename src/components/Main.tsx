@@ -16,10 +16,10 @@ export default function Main() {
       <div>
         <div className='flex flex-row  items-center mb-2'>
           <div className='mr-3'>
-            <img className=' rounded-full w-25 h-25' src={profile} alt='' />
+            <img className=' rounded-full w-20 h-20' src={profile} alt='' />
           </div>
           <div>
-            <div className='font-bold text-5xl flex flex-row '>
+            <div className='font-bold text-4xl flex flex-row '>
               <p className='text-transparent bg-clip-text bg-text-gradient  '>
                 Hola!
               </p>
@@ -33,10 +33,10 @@ export default function Main() {
           </div>
         </div>
         <div className=' text-transparent bg-clip-text bg-text-gradient flex flex-col'>
+          <p className=' text-2xl font-bold mb-2 '>
+            Desarrollador Web y Docente
+          </p>
           <p className='text-1xl font-bold'>
-            <span className=' text-2xl font-bold '>
-              Desarrollador Web y Docente,{' '}
-            </span>
             interesado en formar parte de proyectos donde utilizar mis
             conocimientos.
           </p>
