@@ -13,8 +13,14 @@ function App() {
               </p>
             </div>
             <p className=' text-1xl text-transparent bg-clip-text bg-text-gradient text-center'>
-              Técnico Universitario en Desarrollo Web (en curso) 2025-2026 -
-              UNER
+              <p className=' font-bold'>🏛 Universidad Nacional de Entre Rios</p>
+              <p>
+                🧾 Técnico Universitario en Desarrollo Web (en curso) - 2025
+              </p>
+            </p>
+            <p className=' text-1xl text-transparent bg-clip-text bg-text-gradient text-center'>
+              <p className=' font-bold'> 🏛 Universidad Fasta</p>
+              <p> 🧾 Diplomado en Alfabetización Digital - 2017</p>
             </p>
           </div>
         </div>

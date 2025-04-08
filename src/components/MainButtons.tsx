@@ -13,7 +13,7 @@ export default function MainButtons() {
       </a>
       <div className='flex items-center justify-center gap-4'>
         <a href=''>
-          <button className='inline-flex h-12 animate-background-shine items-center justify-center rounded-lg border border-white/20  w-12 font-medium image-white/80 transition-colors hover:opacity-80 cursor-pointer hover:shadow-[0_0_20px_#68686b] transition-all duration-400 ease-in-out hover:border-gray-300'>
+          <button className='inline-flex h-12 animate-background-shine items-center justify-center rounded-lg border border-white/20  w-12 font-medium image-white/80  hover:opacity-80 cursor-pointer hover:shadow-[0_0_20px_#68686b] transition-all duration-400 ease-in-out hover:border-gray-300'>
             <img
               alt='Linkedin Logo'
               loading='lazy'
@@ -27,7 +27,7 @@ export default function MainButtons() {
           </button>
         </a>
         <a href=''>
-          <button className='inline-flex h-12 animate-background-shine items-center justify-center rounded-lg border border-white/20  w-12 font-medium image-white/80 transition-colors hover:opacity-80 cursor-pointer hover:shadow-[0_0_20px_#68686b] transition-all duration-400 ease-in-out hover:border-gray-300'>
+          <button className='inline-flex h-12 animate-background-shine items-center justify-center rounded-lg border border-white/20  w-12 font-medium image-white/80  hover:opacity-80 cursor-pointer hover:shadow-[0_0_20px_#68686b] transition-all duration-400 ease-in-out hover:border-gray-300'>
             <img
               alt='Linkedin Logo'
               loading='lazy'
@@ -41,7 +41,7 @@ export default function MainButtons() {
           </button>
         </a>
         <a href=''>
-          <button className='inline-flex h-12 animate-background-shine items-center justify-center rounded-lg border border-white/20  w-12 font-medium image-white/80 transition-colors hover:opacity-80 cursor-pointer hover:shadow-[0_0_20px_#68686b] transition-all duration-400 ease-in-out hover:border-gray-300'>
+          <button className='inline-flex h-12 animate-background-shine items-center justify-center rounded-lg border border-white/20  w-12 font-medium image-white/80 hover:opacity-80 cursor-pointer hover:shadow-[0_0_20px_#68686b] transition-all duration-400 ease-in-out hover:border-gray-300'>
             <img
               alt='Linkedin Logo'
               loading='lazy'

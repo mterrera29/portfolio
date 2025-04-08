@@ -26,7 +26,7 @@ export default function Main() {
               <span className=' bg-blend-color'>👋</span>
             </div>
             <p className='text-transparent bg-clip-text bg-text-gradient  '></p>
-            <p className=' text-3xl font-bold text-transparent bg-clip-text bg-text-gradient'>
+            <p className=' text-2xl font-bold text-transparent bg-clip-text bg-text-gradient md:text-3xl'>
               {' '}
               soy Matías Terrera
             </p>
