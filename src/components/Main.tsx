@@ -28,15 +28,19 @@ export default function Main() {
             </p>
           </div>
         </div>
-        <p className=' text-transparent bg-clip-text bg-text-gradient flex flex-col text-2xl font-bold mb-2 '>
+        <p className=' text-transparent bg-clip-text bg-text-gradient flex flex-col text-2xl font-bold mb-2 text-center '>
           Desarrollador Web y Docente
         </p>
       </div>
       <div className=' text-transparent bg-clip-text bg-text-gradient flex flex-col'>
         <p className='text-1xl font-bold text-center'>
-          Interesado en formar parte de proyectos donde utilizar mis
-          conocimientos. Interesado en formar parte de proyectos donde utilizar
-          mis conocimientos.
+          Desde el año 2022 asumí el desafio de estudiar programación para
+          integrar estas tecnologías en el ámbito educativo, donde cuento con 10
+          años de experiencia como docente.
+        </p>
+        <p className='text-1xl font-bold text-center'>
+          Actualmente estoy interesado en formar parte de proyectos en donde
+          utilizar mis habilidades como Desarrollador Web.
         </p>
       </div>
       <TechIcons />
