@@ -3,7 +3,7 @@ import Main from './components/Main';
 function App() {
   return (
     <main className=' min-h-screen flex flex-col'>
-      <section className=' flex flex-col items-center 2xl:justify-center mt-12'>
+      <section className=' flex flex-col items-center 2xl:justify-center'>
         <Main />
       </section>
     </main>
